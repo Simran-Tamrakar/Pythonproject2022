@@ -1,2 +1,2 @@
 # Pythonproject2022
-Python Project 
+Python Project by Olin Raj Shrestha and Simran Tamrakar
